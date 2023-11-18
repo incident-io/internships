@@ -23,6 +23,8 @@ Do not apply if:
 - You prefer to work solo: we're highly collaborative and all your work will
   happen as part of a team.
 
+[![Watch our Product Engineer video!](https://img.youtube.com/vi/I7i8WabFHcY/default.jpg)](https://youtu.be/I7i8WabFHcY)
+
 ## Applying
 
 Please apply at [incident.io/careers](https://incident.io/careers), including a
