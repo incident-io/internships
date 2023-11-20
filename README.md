@@ -30,9 +30,9 @@ Do not apply if:
 
 ## Applying
 
-Please apply at [incident.io/careers](https://incident.io/careers), including a
-CV detailing education and past experience and a cover letter that explains why
-incident.io is particularly exciting to you.
+Please apply via our [Product Engineer Intern](https://boards.eu.greenhouse.io/incidentio/jobs/4248134101)
+job posting. When applying, include a CV detailing education and past experience
+and a cover letter that explains why incident.io is particularly exciting to you.
 
 We care more about the cover letter than the CV, so think carefully about why
 this role is something you would do well in! Make sure to read [What is this
