@@ -1,7 +1,11 @@
 # Internships
 
+[job-ad]: https://boards.eu.greenhouse.io/incidentio/jobs/4248134101
+
 incident.io has an internship programme for student engineers who want to gain
-work experience over summer (3 month) or industrial (6 month) placements.
+work experience over a 6 month placement.
+
+You can apply [here][job-ad] or read about the role below.
 
 ## What is the role?
 
@@ -10,12 +14,13 @@ video](https://youtu.be/I7i8WabFHcY) to see how it differs from other roles.
 
 We're looking for candidates that:
 
-- Want to join a professional software engineering team to gain real world
-  experience in the industry.
-- Have great product taste and want a role where – alongside the challenge of
-  building software – your skills thinking through product problems are equally
-  valuable.
-- Are excited to build software in the incident response space.
+- Want to work in a fast-paced engineering team in one of London's fastest
+  growing start-ups.
+- Love the idea of working closely with customers to build a product used daily
+  to respond to critical incidents.
+- Are excited by the opportunity to build software used by some of the most
+  recognisable names in tech: Etsy, Skyscanner, Vercel, Linear and more that we
+  can't share yet!
 
 Do not apply if:
 
@@ -28,11 +33,10 @@ Do not apply if:
 - You prefer to work solo: we're highly collaborative and all your work will
   happen as part of a team.
 
-## Applying
+## Application process
 
-Please apply via our [Product Engineer
-Intern](https://boards.eu.greenhouse.io/incidentio/jobs/4248134101) job posting.
-When applying, include a CV detailing education and past experience and a cover
+Please apply via our [Product Engineer Intern][job-ad] job posting. When
+applying, include a CV detailing education and past experience and a cover
 letter that explains why incident.io is particularly exciting to you.
 
 We care more about the cover letter than the CV, so think carefully about why
@@ -43,10 +47,17 @@ match against that description.
 > Pro-tip: you can get a sense of engineering at incident.io by reading our
 > [engineering blog](https://incident.io/blog/engineering).
 
-If your application is accepted, we'll invite you to choose one of two options
-for the next part of the process.
+The full candidate process will be:
 
-These are:
+1. Apply with cover letter.
+2. If accepted, we'll ask you to provide either:
+    - Existing product you're proud of.
+    - Solution to our take home test.
+3. If successful, we'll invite you for an on-site interview on the 5th December
+   2023.
+
+Please apply via the [job link][job-ad] and we'll share everything you need to
+know, but for more detail on step (2) read below:
 
 ## 1. Existing project you're proud of
 
@@ -192,14 +203,6 @@ Your submission should include a `README.md` that includes:
 - Instructions on running your code, including installation of dependencies.
 - Comments on code structure/how you approached the problem you think may be
   useful.
-- Thoughts about how you might use what you built in a real scheduling product,
-  one that supports tracking historical entries along with projecting future
-  ones.
-
-The last question is not looking to be comprehensive or provide full solutions:
-it's more about "imagine we were adapting this into a real schedule product, how
-would we":
-
-- Capture historic shifts?
-- Incorporate history into our algorithm?
-- What might be the challenges in building a system like this?
+- Having now built the scheduler, any thoughts you have on the product features
+  you might build on top of this (if you think how we'd use this at incident.io,
+  for example).
