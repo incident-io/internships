@@ -196,9 +196,9 @@ Entries should be truncated to match the from/until parameters.
 
 ### Code submission
 
-Please submit your code in a zip file (TODO: how do we want this to work?)
-
-Your submission should include a `README.md` that includes:
+Once we've reviewed your CV, we'll send you instructions on where to send your
+solution. We'll expect a ZIP file containing the code, plus a `README.md` that
+includes:
 
 - Instructions on running your code, including installation of dependencies.
 - Comments on code structure/how you approached the problem you think may be
