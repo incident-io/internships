@@ -143,7 +143,7 @@ look like this:
   // 5pm, Monday 20th November 2023
   "start_at": "2023-11-20T17:00:00Z",
   // 10pm, Monday 20th November 2023
-  "end_at": "2023-11-20T17:00:00Z"
+  "end_at": "2023-11-20T22:00:00Z"
 }
 ```
 
