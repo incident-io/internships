@@ -7,6 +7,9 @@ work experience over a 6 month placement.
 
 You can apply [here][job-ad] or read about the role below.
 
+> [!CAUTION]
+> Applications are now closed. Will re-open again for Spring 2025 placements around October 2025.
+
 ## What is the role?
 
 This placement is for a Product Engineer role: [watch this
