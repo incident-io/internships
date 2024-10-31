@@ -1,19 +1,22 @@
 # Internships
 
-[job-ad]: https://boards.eu.greenhouse.io/incidentio/jobs/4248134101
+[job-ad]: https://jobs.ashbyhq.com/incident/c6436752-7f35-4936-9cbd-f372f55e4823
 
 incident.io has an internship programme for student engineers who want to gain
 work experience over a 6 month placement.
 
 You can apply [here][job-ad] or read about the role below.
 
-> [!CAUTION]
-> Applications are now closed. Will re-open again for Spring 2025 placements around October 2025.
+> [!IMPORTANT]
+> Take home submission deadline: **15th November 2024** \
+> The team will review take home submissions **18-22nd November 2024**
 
 ## What is the role?
 
 This placement is for a Product Engineer role: [watch this
-video](https://youtu.be/I7i8WabFHcY) to see how it differs from other roles.
+video](https://youtu.be/I7i8WabFHcY) or check out
+[our blog](https://incident.io/blog/interns-at-incident-io) written by our last
+interns to see how it differs from other roles.
 
 We're looking for candidates that:
 
