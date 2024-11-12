@@ -3,7 +3,7 @@
 [job-ad]: https://jobs.ashbyhq.com/incident/c6436752-7f35-4936-9cbd-f372f55e4823
 
 incident.io has an internship programme for student engineers who want to gain
-work experience over a 6 month placement.
+work experience over a 3-6 month placement.
 
 You can apply [here][job-ad] or read about the role below.
 
