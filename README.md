@@ -7,9 +7,8 @@ work experience over a 3-6 month placement.
 
 You can apply [here][job-ad] or read about the role below.
 
-> [!IMPORTANT]
-> Take home submission deadline: **15th November 2024** \
-> The team will review take home submissions **18-22nd November 2024**
+> [!CAUTION]
+> Applications are now closed. Will re-open again for Spring 2026 placements around October 2026.
 
 ## What is the role?
 
